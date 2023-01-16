@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.containeCard {
+    text-align: center;
+    background-color: #000000c5;
+    margin: 5px;
+    border-radius: 20px;
+    color: white;
+}
